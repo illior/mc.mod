@@ -1,0 +1,21 @@
+# Creative Tabs
+itemGroup.test_mod=Test Mod
+
+# Items
+item.test_mod.first_item.name=First Item
+
+# Tools
+item.test_mod.test_pickaxe.name=Test Pickaxe
+item.test_mod.test_axe.name=Test Axe
+item.test_mod.test_hoe.name=Test Hoe
+item.test_mod.test_shovel.name=Test Shovel
+item.test_mod.test_sword.name=Test Sword
+
+# Armor
+item.test_mod.test_helmet.name=Test Helmet
+item.test_mod.test_chestplate.name=Test Chestplate
+item.test_mod.test_leggings.name=Test Leggings
+item.test_mod.test_boots.name=Test Boots
+
+# Blocks
+tile.test_mod.first_block.name=First Block

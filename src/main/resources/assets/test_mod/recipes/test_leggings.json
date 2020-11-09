@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "test_mod:first_item"
+    }
+  },
+  "result": {
+    "item": "test_mod:test_leggings"
+  }
+}

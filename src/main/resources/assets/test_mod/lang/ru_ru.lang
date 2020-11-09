@@ -1,0 +1,21 @@
+# Creative Tabs
+itemGroup.test_mod=Тестовый мод
+
+# Items
+item.test_mod.first_item.name=Первый предмет
+
+# Tools
+item.test_mod.test_pickaxe.name=Тестовая кирка
+item.test_mod.test_axe.name=Тестовый топор
+item.test_mod.test_hoe.name=Тестовая мотыга
+item.test_mod.test_shovel.name=Тестовая лопата
+item.test_mod.test_sword.name=Тестовый меч
+
+# Armor
+item.test_mod.test_helmet.name=Тестовый шлем
+item.test_mod.test_chestplate.name=Тестовый нагрудник
+item.test_mod.test_leggings.name=Тестовые поножи
+item.test_mod.test_boots.name=Тестовые ботинки
+
+# Blocks
+tile.test_mod.first_block.name=Первый блок
